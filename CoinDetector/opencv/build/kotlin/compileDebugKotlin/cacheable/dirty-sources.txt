@@ -1,0 +1,2 @@
+C:\Users\USASebas\AndroidStudioProjects\CoinDetector\opencv\java\src\org\opencv\core\MatMatMul.kt
+C:\Users\USASebas\AndroidStudioProjects\CoinDetector\opencv\java\src\org\opencv\core\MatAt.kt
