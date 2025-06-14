@@ -36,13 +36,13 @@ It should always have a **50** peso coin in the image. However, more coins can b
 
 ## 📷 Screenshots
 
-<img src="https://github.com/user-attachments/assets/5729d2b2-c0a7-4f39-82e7-5eab7c28800f" width="300"/>
+<img src="https://github.com/user-attachments/assets/5729d2b2-c0a7-4f39-82e7-5eab7c28800f" width="100"/>
 <br/>
 
-<img src="https://github.com/user-attachments/assets/38580a1d-1365-4232-8e71-c1e25b7cf4a8" width="300"/>
+<img src="https://github.com/user-attachments/assets/38580a1d-1365-4232-8e71-c1e25b7cf4a8" width="100"/>
 <br/>
 
-<img src="https://github.com/user-attachments/assets/67eeb10f-1f3c-4233-b4f7-0f6a1527c1f3" width="300"/>
+<img src="https://github.com/user-attachments/assets/67eeb10f-1f3c-4233-b4f7-0f6a1527c1f3" width="100"/>
 
 
 ## 🔐 Permissions
